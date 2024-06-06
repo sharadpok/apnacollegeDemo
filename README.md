@@ -1,3 +1,3 @@
-# apnacollegeDemo
+cd # apnacollegeDemo
 This is my first git repository
-Author- Sharad Pokale
+Author- Sharad Pokale- Pune
